@@ -10,5 +10,3 @@ The program will save the result (country code and country name) as a tabulated 
 
 You should answer as if you were writting production code within your team. You can imagine that the program will be run automatically every week to update the resulting data.
 
-Please send us the link to your github repository with the answer of the exercise. 
-
